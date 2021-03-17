@@ -1,25 +1,25 @@
-#feegow-challenge
+# feegow-challenge
 
-##Tecnologias usadas
+## Tecnologias usadas
 
-###PHP como linguagem backend 
-###Bootstrap 
-###Vue.Js
-###Mysql
-
-
-##Istalação dos modulos do NPM
-
-###Executar :
-
-###npm install
-
-##Importação do Mysql
-
-###Executar a importação  do Sql  com arquivo no projeto testefeegow.sql
+### PHP como linguagem backend 
+### Bootstrap 
+### Vue.Js
+### Mysql
 
 
-####Autor: Maycon Lemos
+## Istalação dos modulos do NPM
+
+### Executar :
+
+### npm install
+
+## Importação do Mysql
+
+### Executar a importação  do Sql  com arquivo no projeto testefeegow.sql
+
+
+#### Autor: Maycon Lemos
 
 
 
