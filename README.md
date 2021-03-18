@@ -16,10 +16,10 @@
 
 ## Importação do Mysql
 
-#### Executar a importação  do Sql  com arquivo no projeto testefeegow.sql
+#### Executar a importação  do Sql, arquivo se encontra no projeto 'testefeegow.sql'
 
 ## Observação
-#### Tive que utilização uma extensão do google-chorme  que se chama " Allow CORS: Access-Control-Allow-Origin " para permitir uso da API no front-end.
+#### Utilização da extensão do google-chorme  que se chama " Allow CORS: Access-Control-Allow-Origin " para permitir uso da API no front-end.
 
 
 #### Autor: Maycon Lemos
