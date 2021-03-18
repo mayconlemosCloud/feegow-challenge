@@ -19,7 +19,7 @@
 #### Executar a importação  do Sql  com arquivo no projeto testefeegow.sql
 
 ## Observação
-#### Tive que utilização uma extensão do google-chorme  que se chama " Allow CORS: Access-Control-Allow-Origin " para permitir uso da API no front-end.
+#### Utilização uma extensão do google-chorme  que se chama " Allow CORS: Access-Control-Allow-Origin " para permitir uso da API no front-end.
 
 
 #### Autor: Maycon Lemos
